@@ -3,6 +3,7 @@
 👨‍💻 I'm a passionate iOS Developer @ MetaPax
 
 - 🌱 I’m currently learning SwiftUI
+- ✍️ Also I write articles on [aleos.dev](https://aleos.dev)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thealeos/)
 
 <!--
