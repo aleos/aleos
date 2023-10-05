@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 👨‍💻 I'm a passionate iOS Developer @ MetaPax
-
+<!--
 - 🌱 I’m currently learning SwiftUI
 - ✍️ Also I write articles on [aleos.dev](https://aleos.dev)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thealeos/)
-
+-->
 <!--
 **aleos/aleos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
