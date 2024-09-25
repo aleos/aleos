@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a passionate iOS Developer @ MetaPax
+👨‍💻 I'm a passionate iOS Developer @ MPAX
 <!--
 - 🌱 I’m currently learning SwiftUI
 - ✍️ Also I write articles on [aleos.dev](https://aleos.dev)
